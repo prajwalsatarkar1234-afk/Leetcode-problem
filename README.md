@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0035-search-insert-position) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
