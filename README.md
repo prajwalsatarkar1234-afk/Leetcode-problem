@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0035-search-insert-position) |
 | [2029-stone-game-ix](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/2029-stone-game-ix) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
