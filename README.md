@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0035-search-insert-position) |
 | [1386-cinema-seat-allocation](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Minimax
 |  |
 | ------- |
