@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0058-length-of-last-word) |
 | [0940-distinct-subsequences-ii](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0940-distinct-subsequences-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
