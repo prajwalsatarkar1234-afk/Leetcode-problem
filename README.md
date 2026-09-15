@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0066-plus-one) |
 | [2029-stone-game-ix](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3536-maximum-product-of-two-digits](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/3536-maximum-product-of-two-digits) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0066-plus-one) |
 | [1386-cinema-seat-allocation](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
