@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0067-add-binary) |
 | [0940-distinct-subsequences-ii](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0940-distinct-subsequences-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -207,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
