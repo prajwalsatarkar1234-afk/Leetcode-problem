@@ -182,5 +182,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0176-second-highest-salary) |
 | [1148-article-views-i](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
