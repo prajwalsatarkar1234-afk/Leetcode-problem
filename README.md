@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
