@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0511-game-play-analysis-i) |
 | [1148-article-views-i](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/1148-article-views-i) |
 ## Newton's Method
