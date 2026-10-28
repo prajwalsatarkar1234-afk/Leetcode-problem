@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/1148-article-views-i) |
+| [1179-reformat-department-table](https://github.com/prajwalsatarkar1234-afk/Leetcode-problem/tree/master/1179-reformat-department-table) |
 ## Newton's Method
 |  |
 | ------- |
